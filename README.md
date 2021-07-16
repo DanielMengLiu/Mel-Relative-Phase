@@ -1,4 +1,4 @@
 # Mel-Relative-Phase
 relative phase feature for speech processing
 
-run_relativephase.py/.m
+Main: run_relativephase.py / run_relativephase.m
